@@ -39,6 +39,6 @@
 * calculation — расчётные характеристики
 
 ## Метрика качества
-Для решения задачи введём новую метрику качества — sMAPE (англ. Symmetric Mean Absolute Percentage Error, «симметричное среднее абсолютное процентное отклонение»).
+Для решения задачи была использована метрика качества — sMAPE (англ. Symmetric Mean Absolute Percentage Error, «симметричное среднее абсолютное процентное отклонение»).
 
 ![image](https://user-images.githubusercontent.com/128860411/227722205-487172ee-48ed-4356-a0eb-43041f28abcc.png)
