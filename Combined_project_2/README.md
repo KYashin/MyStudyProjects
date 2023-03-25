@@ -42,3 +42,11 @@
 Для решения задачи была использована метрика качества — sMAPE (англ. Symmetric Mean Absolute Percentage Error, «симметричное среднее абсолютное процентное отклонение»).
 
 ![image](https://user-images.githubusercontent.com/128860411/227722205-487172ee-48ed-4356-a0eb-43041f28abcc.png)
+
+Нужно спрогнозировать сразу две величины:
+
+1. эффективность обогащения чернового концентрата rougher.output.recovery;
+2. эффективность обогащения финального концентрата final.output.recovery.
+
+Итоговая метрика складывается из двух величин:
+![image](https://user-images.githubusercontent.com/128860411/227722410-ba91c4a7-96d7-48db-9edf-1d579297a645.png)
